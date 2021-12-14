@@ -1,3 +1,43 @@
 body {
-background-color: blue;
+  background-color: #E9CCFF;
+  
+  
+}
+h3 {
+  Color: black;
+font-size: 200%;
+  background- color: #C5C3C3;
+  letter-spacing: 5px;
+}
+h4 {
+  fount-sixe: 150%;
+}
+img {
+  width:30%
+}
+ul {
+  list-style-type: none;
+  background-color: antiquewhite;
+  
+  width: 100%;
+  overflow: hidden;
+  position: fixed;
+  text- align: center;
+  left: 0;
+  top: 0;
+  margin: 0;
+}
+li{
+  float: left;
+}
+li a {
+
+  display: block;
+  color: white;
+  text-decoration: none;
+  padding: 15px 50px
+}
+li a:hover{
+  background-color: white;
+  color: black;
 }
